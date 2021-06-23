@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-describe('Airbnb website', () => {
+describe('Casino.pt website', () => {
   it('should run lighthouse performance audits using default thresholds', () => {
     cy.visit('/');
     cy.lighthouse();
