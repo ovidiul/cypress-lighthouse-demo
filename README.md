@@ -6,4 +6,6 @@ An example repository showing how to use [cypress-audit](https://github.com/mfra
 
 Install the project dependencies by running `npm i`.
 
+Run the cypress tests from command line `cypress run ./`.
+
 Once dependences are installed, simply run `npx cypress open` and run the test file.
